@@ -1,13 +1,4 @@
-<style>
-  body {
-    background-color: #121212;
-    color: #ffffff;
-    padding: 20px;
-    border-radius: 10px;
-  }
-</style>
 
-<div>
 # SetupReact
 LAB 1: SETTING UP A REACT DEVELOPMENT ENVIRONMENT 
 
@@ -43,4 +34,8 @@ LAB 1: SETTING UP A REACT DEVELOPMENT ENVIRONMENT
 # See Pictures shot below. 🚀
 
 ![screen1](https://github.com/hjoseph777/SetupReact/blob/main/React5Screenshot%202025-01-19%20194151.png)
-</div>
+![screen2](https://github.com/hjoseph777/SetupReact/blob/main/React1Screenshot%202025-01-19%20192846.png)
+![screen3](https://github.com/hjoseph777/SetupReact/blob/main/React2Screenshot%202025-01-19%20192948.png)
+![screen4](https://github.com/hjoseph777/SetupReact/blob/main/React3Screenshot%202025-01-19%20193534.png)
+![screen5](https://github.com/hjoseph777/SetupReact/blob/main/React4Screenshot%202025-01-19%20194054.png)
+
