@@ -1,3 +1,5 @@
+<div style="background-color: #121212; color: #ffffff; padding: 20px; border-radius: 10px;">
+
 # SetupReact
 LAB 1: SETTING UP A REACT DEVELOPMENT ENVIRONMENT 
 
@@ -30,4 +32,8 @@ LAB 1: SETTING UP A REACT DEVELOPMENT ENVIRONMENT
 5. **Last**:
    - Edit files in the `src/` folder and see changes live in the browser.
 
-#See Pictures shot below. 🚀
+# See Pictures shot below. 🚀
+
+![screen1](https://github.com/hjoseph777/SetupReact/blob/main/React5Screenshot%202025-01-19%20194151.png)
+
+</div>
