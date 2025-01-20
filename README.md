@@ -27,7 +27,7 @@ LAB 1: SETTING UP A REACT DEVELOPMENT ENVIRONMENT
      ```
    - View your app at [http://localhost:3000](http://localhost:3000).
 
-5. **Start Coding**:
+5. **Last**:
    - Edit files in the `src/` folder and see changes live in the browser.
 
-That's it! You're ready to build React apps in VSCode. 🚀
+#See Pictures shot below. 🚀
