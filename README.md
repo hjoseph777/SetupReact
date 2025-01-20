@@ -1,5 +1,13 @@
-<div style="background-color: #121212; color: #ffffff; padding: 20px; border-radius: 10px;">
+<style>
+  body {
+    background-color: #121212;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+</style>
 
+<div>
 # SetupReact
 LAB 1: SETTING UP A REACT DEVELOPMENT ENVIRONMENT 
 
@@ -35,5 +43,4 @@ LAB 1: SETTING UP A REACT DEVELOPMENT ENVIRONMENT
 # See Pictures shot below. 🚀
 
 ![screen1](https://github.com/hjoseph777/SetupReact/blob/main/React5Screenshot%202025-01-19%20194151.png)
-
 </div>
