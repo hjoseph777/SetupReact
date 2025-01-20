@@ -33,8 +33,9 @@ LAB 1: SETTING UP A REACT DEVELOPMENT ENVIRONMENT
 
 # See Pictures shot below. 🚀
 
-![screen1](React5Screenshot%202025-01-19%20194151.png)
+
 ![screen2](React1Screenshot%202025-01-19%20192846.png)
 ![screen3](React2Screenshot%202025-01-19%20192948.png)
 ![screen4](React3Screenshot%202025-01-19%20193534.png)
 ![screen5](React4Screenshot%202025-01-19%20194054.png)
+![screen1](React5Screenshot%202025-01-19%20194151.png)
